@@ -8,10 +8,7 @@
 *
 * Name: Rong Chen  Student ID: 132356221 Date:02/16/2024
 *
-* Published URL:http://localhost:8080/ 
-                http://localhost:8080/lego/sets
-                http://localhost:8080/lego/sets/num-demo
-                http://localhost:8080/lego/sets/theme-demo
+* Published URL:https://github.com/ElisaRong122/web322-a2.git
 ********************************************************************************/
 //legoSets.js
 // Import data
